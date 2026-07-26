@@ -1,0 +1,5 @@
+{
+  "name": "Chuyển văn bản thành giọng nói",
+  "description": "A professional Text-to-Speech generator powered by Gemini, supporting multiple languages, SSML, and voice customization.",
+  "requestFramePermissions": []
+}
